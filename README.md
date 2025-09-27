@@ -1,8 +1,8 @@
-# Dementia Detection Website (SIH 2025)
+# Early Stage Dementia Detection AI applcation
 
-This repository hosts the code for the **Dementia Detection Website**, developed for the **Smart India Hackathon 2025 (SIH 2025)**. This platform is designed to assist in the **early-stage detection and analysis of dementia**, offering users a detailed, preliminary analysis.
+This repository hosts the code for the **Dementia Detection Website**, developed for the **Smart India Hackathon 2025**. This platform is designed to assist in the **early-stage detection and analysis of dementia**, offering users a detailed, preliminary analysis.
 
-WARNING: This tool is for informational and preliminary analysis purposes only. **Always consult a doctor or a medical professional** for accurate diagnosis, as AI models cannot be perfectly accurate.
+****WARNING: This tool is for informational and preliminary analysis purposes only. **Always consult a doctor or a medical professional** for accurate diagnosis, as AI models cannot be perfectly accurate.****
 
 ---
 
