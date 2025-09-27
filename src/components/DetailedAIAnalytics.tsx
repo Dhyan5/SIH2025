@@ -10,8 +10,8 @@ import { ScrollArea } from './ui/scroll-area';
 import { 
   Brain, Target, TrendingUp, AlertTriangle, CheckCircle, Lightbulb, 
   Activity, BarChart3, Download, Share2, Calendar, Clock, User,
-  Heart, Shield, Zap, Eye, Ear, Hand, FileText, PieChart,
-  LineChart, Radar as RadarIcon, Info, AlertCircle
+  Heart, Shield, Zap, Eye, Ear, Hand, FileText, PieChart as PieChartIcon,
+  Radar as RadarIcon, Info, AlertCircle
 } from 'lucide-react';
 import { 
   ResponsiveContainer, RadarChart, PolarGrid, PolarAngleAxis, 
@@ -957,7 +957,7 @@ export function DetailedAIAnalytics({
             <Card className="lg:col-span-2">
               <CardHeader>
                 <CardTitle className="flex items-center gap-2">
-                  <PieChart className="h-5 w-5 text-orange-600" />
+                  <PieChartIcon className="h-5 w-5 text-orange-600" />
                   Risk Factor Impact Analysis
                 </CardTitle>
               </CardHeader>
