@@ -6,6 +6,12 @@ WARNING: This tool is for informational and preliminary analysis purposes only. 
 
 ---
 
+## Collaborators
+
+* ARJUN-R-DEVADIGA ([@ARJUN-R-DEVADIGA](https://github.com/ARJUN-R-DEVADIGA))
+
+---
+
 ## Features
 
 * **User-Friendly Web Interface:** Intuitive and easy-to-navigate design.
@@ -46,7 +52,11 @@ You will need **Node.js** and **npm** installed on your machine.
 
 ### Installation
 
-1.  **Fork or Clone this repository**
+1.  **Clone the repository:**
+    ```bash
+    git clone [YOUR_REPO_URL]
+    cd dementia-detection-website
+    ```
 
 2.  **Install dependencies:**
     The repository only contains `package.json` and `package-lock.json`. Restore all necessary dependencies using npm.
