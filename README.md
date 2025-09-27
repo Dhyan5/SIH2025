@@ -6,6 +6,12 @@ WARNING: This tool is for informational and preliminary analysis purposes only. 
 
 ---
 
+## Collaborators
+
+* ARJUN-R-DEVADIGA ([@ARJUN-R-DEVADIGA](https://github.com/ARJUN-R-DEVADIGA))
+
+---
+
 ## Features
 
 * **User-Friendly Web Interface:** Intuitive and easy-to-navigate design.
