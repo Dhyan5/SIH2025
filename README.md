@@ -52,11 +52,7 @@ You will need **Node.js** and **npm** installed on your machine.
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [YOUR_REPO_URL]
-    cd dementia-detection-website
-    ```
+1.  **Clone or fork this repository**
 
 2.  **Install dependencies:**
     The repository only contains `package.json` and `package-lock.json`. Restore all necessary dependencies using npm.
