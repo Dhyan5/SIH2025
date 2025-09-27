@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Dementia Detection Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# SIH2025
+>>>>>>> 9cdd922b1969777b8fe2547704d01a11f58d0276
