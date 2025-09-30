@@ -9,7 +9,7 @@ This repository hosts the code for the **Dementia Detection Website**, developed
 ## Collaborators
 
 * ARJUN-R-DEVADIGA ([@ARJUN-R-DEVADIGA](https://github.com/ARJUN-R-DEVADIGA))
-
+* HARSHAN ARASA
 ---
 
 ## Features
